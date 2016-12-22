@@ -3,11 +3,6 @@ import becker.robots.City;
 import becker.robots.Direction;
 import becker.robots.RobotSE;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
  * @author micla1676
